@@ -3,5 +3,5 @@
 
  goto your shell script app location and run this shell name
 
-<pre> ./test.sh </pre> 
+<pre> $ ./test.sh </pre> 
 
